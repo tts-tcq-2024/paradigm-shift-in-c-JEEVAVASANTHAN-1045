@@ -1,5 +1,5 @@
 #include "battery_checker.h"
-#include "temperature_checker.h"
+#include "temperature_monitor.h"
 #include "soc_checker.h"
 #include "charge_rate_check.h"
 
